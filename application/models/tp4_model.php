@@ -1,6 +1,7 @@
 <?php
 class Tp4_model extends CI_Model
 {
+    
 
     public function get_lesProduits()
     {
